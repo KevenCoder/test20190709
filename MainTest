@@ -1,4 +1,5 @@
 public class Data
 {
   public final static String STR = "123456789";
+  String ck = "abc";
 }
